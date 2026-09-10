@@ -20,7 +20,6 @@ Actualmente estoy enfocando mi aprendizaje en la administración de servidores, 
 * **Servidor de Radio Online:** 
   Despliegue en equipo de un servidor de broadcast y streaming utilizando una **Raspberry Pi** (Linux) y OBS Studio para la emisión.
   
-  ![Placa Raspberry Pi](https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Top.jpg)
 
 * **Administración de Sistemas:** 
   Prácticas de creación de usuarios, gestión de permisos y políticas de grupo en Windows Server.
