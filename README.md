@@ -1,4 +1,4 @@
-(https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&h=300&q=80)
+![servidores](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&h=300&q=80)
 
 # Hola, soy Tomás Kos 👋
 
@@ -20,10 +20,10 @@ Actualmente estoy enfocando mi aprendizaje en la administración de servidores, 
 * **Servidor de Radio Online:** 
   Despliegue en equipo de un servidor de broadcast y streaming utilizando una **Raspberry Pi** (Linux) y OBS Studio para la emisión.
   
-(https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raspberry_Pi_-_Model_A.jpg/300px-Raspberry_Pi_-_Model_A.jpg)
+  ![Raspberry Pi](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Raspberry_Pi_-_Model_A.jpg/300px-Raspberry_Pi_-_Model_A.jpg)
 
 * **Administración de Sistemas:** 
   Prácticas de creación de usuarios, gestión de permisos y políticas de grupo en Windows Server.
 
 ## 📫 Contacto
-* [Mi perfil de LinkedIn](https://www.linkedin.com/in/tomás-kos)
+* [LinkedIn](https://www.linkedin.com/in/tomás-kos)
